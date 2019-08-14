@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 import time
@@ -59,7 +53,7 @@ for i in range (0,900):
 plt.show()
 
 
-# In[ ]:
+
 
 
 
