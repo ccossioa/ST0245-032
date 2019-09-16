@@ -29,8 +29,4 @@ public class Punto2
         textCompilator("[[a[[d[f[[g[g[h[h[dgd[fgsfa[f");
     }  
     
-    public void bloques (int n){
-        
-    }
-    
-}
+   
