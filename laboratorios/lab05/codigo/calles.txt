@@ -1,0 +1,12 @@
+Calles. ID, ID, distancia, nombre
+183 802 200 Calle_30
+120 455 159 Calle_10
+198 126 442 Calle_50
+241 839 500 Calle_44
+455 126 900 Avenida_80
+802 241 120 Avenida_90
+120 839 230 Calle_48
+120 222 543 Cale_88
+455 241 555 Avenida_90
+839 183 776 Transversal_78
+222 455 029 Diagonal_3

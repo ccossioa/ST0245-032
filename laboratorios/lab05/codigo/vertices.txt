@@ -1,0 +1,13 @@
+Vertices. ID, coordenadaX, coordenadaY, nombre
+183 3.2490824 4.924890 Escuela
+839 5.3948902 7.829482 Cine
+802 4.9320984 2.903847 Universidad
+241 1.9230244 7.429085 Estacion_Metro
+126 3.8877126 9.713672 Casa_Pedro
+120 2.9003827 1.892387 Tienda
+198 5.9884726 4.291827 Supermercado
+455 3.9038422 6.930291 Centro
+222 4.0932375 -9.09384 Peluqueria
+
+
+
